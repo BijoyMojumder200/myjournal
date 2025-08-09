@@ -6,7 +6,7 @@ It was created as the final project for [CS50x](https://cs50.harvard.edu/x/2025/
 ---
 
 ## 📽 Project Demo Video  
-🔗 [Click here to watch on YouTube](https://youtu.be/OMJWvyYX-jM)  
+🔗 [Click here to watch on YouTube](https://youtu.be/VzlRnyzc1kw)  
 
 ---
 
