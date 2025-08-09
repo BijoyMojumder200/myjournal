@@ -46,7 +46,7 @@ flask run
 
 http://127.0.0.1:5000/
 
-5. YouTube linl
+5. YouTube link
 
 (https://youtu.be/VzlRnyzc1kw)
 
